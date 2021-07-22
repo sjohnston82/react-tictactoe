@@ -1,4 +1,4 @@
-Made as a guided tutorial from Arash Ahadzadeh's Complete React Bootcamp 2020 (w/ React Hooks, Firebase) on SkillShare.
+This version of TicTacToe is done using React, and enables users to go back to previous moves.
 
 It is hosted at https://tictacreact.surge.sh
 
